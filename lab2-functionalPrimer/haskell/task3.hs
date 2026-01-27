@@ -13,3 +13,4 @@ main = do
     input <- getLine 
     let x = (read input :: Int)
     putStrLn( show (sgn (x)) )
+--nothing to change here
